@@ -83,3 +83,8 @@ java recursion.ClockTest
 ```
 
 As an exercise, try to extend this to accept command-line arguments to specify the number of ticks for each clock hand (no solution given!).
+
+
+## Further Reading
+
+I learnt Java by delving into [this book](https://math.hws.edu/javanotes/) - I fully recommend it if you want to learn the language. It's free.
