@@ -60,3 +60,26 @@ java recursion.Tooth 5
 java recursion.ToothEx1 5 10
 java recursion.ToothEx2 5
 ```
+
+
+### Clock
+
+```
+  _______
+ /  12   \
+|    |    |
+|9   |   3|
+|     \   |
+|         |
+ \___6___/
+
+```
+
+
+This one is a pretty weak tutorial (I wrote it over 10 years ago!). You can run it with:
+
+```
+java recursion.ClockTest
+```
+
+As an exercise, try to extend this to accept command-line arguments to specify the number of ticks for each clock hand (no solution given!).
